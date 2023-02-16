@@ -1,6 +1,4 @@
 import pickle
-import sys 
-sys.append[('/var/lib/jenkins/.local/bin')]
 import streamlit as st 
 
 
